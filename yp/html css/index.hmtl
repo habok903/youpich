@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>youpich</title>
+	<style type="text/css">
+	body{
+		  background-image: url(index.jpg);
+
+
+
+}
+
+	</style>
+	<h1>Dobro dosli na Youpich uživajte!</h1>
+	<link rel="stylesheet" type="text/css" href="stil.css">
+	
+	<a href="file:///C:/Users/Windows/Desktop/yp/index.hmtl">početna</a>
+	<a href="putovanje trip">vaša putovanja</a>
+	<a href="najbolja igrica">naj slika iz igrice</a>
+	<a href="naj slika prirode">naj slika prirode</a>
+	<a href="file:///C:/Users/Windows/Desktop/yp/upload%20ovdje/up.html">upload ovdje</a>
+</head>
+
+<body>
+	
+	
+	<img src="png.png" height="90px" >
+</body>
+</html>
